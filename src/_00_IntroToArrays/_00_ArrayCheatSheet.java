@@ -51,6 +51,6 @@ public class _00_ArrayCheatSheet {
 		}
 		System.out.println(l);
 		// 12. print only the last element in the array
-
+		System.out.println(array2[array2.length-1]);
 	}
 }
